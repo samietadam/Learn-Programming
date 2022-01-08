@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+*{
+    margin: 0;
+font-family: Roboto;
+    font-weight: 600;
+   
+   
+}
+.nav-bar img {
+    width: 100px;
+}
+ul li a {
+   color: white;
+   text-decoration: none;
+   
+  
+}
+
+ul li {
+    margin-bottom: 20px;
+    display: inline-block;
+}
+ul li a:hover {
+   background-color: rgb(73, 86, 109);
+    font-size: 17px;
+    padding: 8px 8px 8px 8px;
+    border-radius: 5px;
+    transition: all 0.3s; 
+}
+li {
+    list-style-type: none;
+
+}
+
+header {
+    color: white;
+ margin-bottom: 50px;
+  background-color: rgb(38, 46, 61);
+  border-radius: 0px 0px 20px 20px;
+   
+   
+}
+header h1 {
+    text-align: center;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+main article {
+   
+    margin-bottom: 15px;
+    width: 450px;
+    
+}
+
+div.flex h2 {
+    text-align: center;
+  
+}
+main {
+    margin-bottom: 40px;
+    margin-left: 90px;
+    width: 80%;
+    box-shadow: 5px 5px 25px rgb(190, 190, 190) ;
+    
+
+    
+}
+
+
+
+div.flex {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-bottom: 10px;
+    
+
+    
+
+}
+main h2 {
+    text-align: center;
+    background-color: rgb(38, 46, 61);
+    width: 20%;
+    display: inline-block;
+    margin-left: 350px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding:  5px 5px 5px 5px;
+    border-radius: 5px;
+    color: white;
+
+}
+p {
+    margin: 50px 10px 10px 10px;
+    margin-bottom: 40px;
+    background-color: khaki;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+ }
+div.flex{
+    padding:  15px 15px 15px 15px;
+ 
+}
+h3 {
+    margin: 15px 15px 15px 15px;
+}
+article {
+    margin: 50px px 5px 5px;
+
+}
+div.section-2 {
+    margin-left: 600px;
+}
+div.section-1 {
+    margin-left:0px;
+}
+.nav-h1 {
+    margin-bottom: 20px;
+    padding-top: 20px;
+ }
+
+.my-img{
+    border-radius: 50%;
+    width: 200px;
+  margin-left: 50px;
+  margin-right: 40px;
+  border: 2px solid black;
+}
+.my-name {
+    font-family: Sacramento  ;
+    font-size: 35px; 
+   font-weight: 500;
+}
+footer {
+    background-color:rgb(38, 46, 61) ;
+    color: white;
+    text-align: center;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+
+}
+footer h4 {
+   font-size: 18px;
+}
+
+div.footer-txt-bottom {
+   padding: 10px 10px 10px 10px;
+   text-align: center;
+}
+.footer-txt-left {
+   width: 33%;
+   padding-top: 5px; 
+  padding: 15px 15px 15px 15px;
+   float: left;
+   background-color: rgb(32, 30, 30);
+border-radius: 10px;
+}
+.contact {
+  
+    overflow: hidden;
+    width: 33%;
+  margin-left: 750px;
+   padding: 15px 15px 15px 15px ;
+   background-color: rgb(32, 30, 30);
+   border-radius: 10px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    border-radius: 5px;
+    box-shadow:inset 0 0 10px rgb(190, 190, 190);
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: #009578;
+
+} 
+
+
+
+    
+

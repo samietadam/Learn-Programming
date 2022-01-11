@@ -76,6 +76,31 @@ ul {
     background-color: rgb(7, 9, 43);
     color: white;
     padding: 2px 2px 2px 2px;
-border-radius: 10px;}
+border-radius: 10px;
+}
+.test a {
+    background-color: rgb(16, 16, 70);
+    color: white;
+    display: block;
+    cursor: pointer;
+    margin: 10px 10px 10px 10px;
+    padding: 20px 20px 20px;
+    border-radius: 200px 10px 200px 10px;
+    text-decoration: none;
+    text-align: center;
+ }
+ .test a:visited {
+     background-color: rgb(21, 21, 88);
+ 
+ }
+ .test a:hover {
+ background-color: orangered;
+ }
+ .test a:active {
+     background-color: palegreen;
+ 
+ }
+ 
+
 
 
